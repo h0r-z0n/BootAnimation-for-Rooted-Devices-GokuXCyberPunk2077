@@ -9,7 +9,10 @@ Flash it via Magisk
 Preview
 
 
-https://user-images.githubusercontent.com/85432027/170204520-d63c2cea-7c03-47d3-840e-11db96f0ba41.mp4
+
+
+https://user-images.githubusercontent.com/85432027/170421035-d7031957-8b48-422c-b95e-3bb526f2eef2.mp4
+
 
 
 Note : For Rooted Android Devices only
